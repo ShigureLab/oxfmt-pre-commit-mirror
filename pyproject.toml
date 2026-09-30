@@ -1,0 +1,6 @@
+[project]
+name = "oxfmt-mirror"
+version = "0.69.0"
+dependencies = [
+    "oxfmt==0.69.0",
+]
