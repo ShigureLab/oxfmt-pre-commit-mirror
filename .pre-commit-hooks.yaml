@@ -1,0 +1,9 @@
+- id: oxfmt
+  name: oxfmt
+  description: "Formatter for the JavaScript Oxidation Compiler"
+  entry: oxfmt
+  language: python
+  minimum_pre_commit_version: 2.9.2
+  require_serial: false
+  types_or: [javascript, jsx, ts, tsx]
+  args: []
