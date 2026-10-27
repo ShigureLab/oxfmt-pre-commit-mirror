@@ -8,7 +8,7 @@ Add this to your `.pre-commit-config.yaml`:
 
 ```yaml
 - repo: https://github.com/ShigureLab/oxfmt-pre-commit-mirror
-  rev: v0.74.0
+  rev: v0.75.0
   hooks:
     - id: oxfmt
 ```
